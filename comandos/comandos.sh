@@ -40,9 +40,9 @@
    40  git clone 
    41  sudo apt install git
    42  git clone 
-   43  git config --global user.name 
-   44  git config --global user.name 
-   45  git config --global user.email 
+   43  git config --global user.name ""
+   44  git config --global user.name ""
+   45  git config --global user.email ""
    46  git config --global core.editor vim
    47  git config --global merge.tool vimdiff
    48  git config --global color.ui true
